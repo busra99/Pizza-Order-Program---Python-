@@ -1,4 +1,4 @@
-# Pizza-Order-Program---Python-
+# Pizza-Order-Program-Python
 Global AI Hub Python Bootcamp projesi. 
 Sistem, kullanıcıların menüdeki pizzayı ve istedikleri sosu seçmesiyle başlar. 
 İkinci aşama olarak seçtikleri sos ve pizzayı seçtikten sonra ödemeye kısmına geçiş yaparlar. 
